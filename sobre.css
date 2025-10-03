@@ -28,13 +28,6 @@ header h1{
 
 
 
-main{
-    display:flex;
-    flex-direction:column;
-    gap:20px;
-    width: 80%;
-    max-width: 400px;
-}
 
 
 
