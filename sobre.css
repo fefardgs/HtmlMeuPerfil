@@ -39,12 +39,11 @@ main{
 
 
 header p{
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-weight: weight;
   font-style: normal;
 }
-
 footer{
     margin: 30px 0px;
     font-size: 14px;
