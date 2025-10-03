@@ -2,7 +2,7 @@ body{
     background-color: rgb(128, 72, 116);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: linear-gradient(120deg, rgb(0, 0, 0), rgb(94, 6, 64), rgb(122, 70, 106));
-    color:rgb(19, 0, 19);
+   color:rgb(255, 255, 255);
     display:flex;
     flex-direction: column;
     align-items: center;
